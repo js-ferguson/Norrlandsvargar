@@ -19439,3 +19439,571 @@ PlayFab.Party.PlayFabMultiplayerManager.Start () (at <b608fa7876f34b489ca9038451
 
 [Info   : Unity Log] 11/22/2022 03:43:20:  Connections 1 ZDOS:1157891  sent:1 recv:88
 
+[Info   : Unity Log] 11/22/2022 03:53:22:  Connections 1 ZDOS:1157880  sent:0 recv:232
+
+[Info   : Unity Log] 11/22/2022 04:03:24:  Connections 1 ZDOS:1157875  sent:0 recv:180
+
+[Info   : Unity Log] 11/22/2022 04:08:44: clone 3002
+
+[Info   : Unity Log] 11/22/2022 04:13:29:  Connections 1 ZDOS:1157920  sent:334 recv:229
+
+[Info   : Unity Log] 11/22/2022 04:23:30:  Connections 1 ZDOS:1157873  sent:0 recv:137
+
+[Info   : Unity Log] 11/22/2022 04:26:56: RPC_Disconnect 
+
+[Info   : Unity Log] 11/22/2022 04:26:56: Destroying abandoned non persistent zdo 400011029:9245 owner 400011029
+
+[Info   : Unity Log] 11/22/2022 04:26:56: Destroying abandoned non persistent zdo 400011029:9247 owner 400011029
+
+[Info   : Unity Log] 11/22/2022 04:26:56: Destroying abandoned non persistent zdo 400011029:9244 owner 400011029
+
+[Info   : Unity Log] 11/22/2022 04:26:56: Destroying abandoned non persistent zdo 400011029:9246 owner 400011029
+
+[Info   : Unity Log] 11/22/2022 04:26:56: Destroying abandoned non persistent zdo 400011029:9248 owner 400011029
+
+[Info   : Unity Log] 11/22/2022 04:26:56: Destroying abandoned non persistent zdo 400011029:9239 owner 400011029
+
+[Info   : Unity Log] 11/22/2022 04:26:56: Destroying abandoned non persistent zdo 400011029:119 owner 400011029
+
+[Info   : Unity Log] 11/22/2022 04:26:56: Disposing socket
+
+[Info   : Unity Log] 11/22/2022 04:26:56: Closing socket 76561199227707104
+
+[Info   : Unity Log] 11/22/2022 04:26:56:   send queue size:0
+
+[Info   : Unity Log] 11/22/2022 04:26:56: Disposing socket
+
+[Info   : Unity Log] 11/22/2022 04:26:56: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+
+[Info   : Unity Log] 11/22/2022 04:26:56: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+
+[Info   : Unity Log] 11/22/2022 04:26:56: Got status changed msg k_ESteamNetworkingConnectionState_None
+
+[Info   : Unity Log] 11/22/2022 04:33:32:  Connections 0 ZDOS:1157870  sent:0 recv:0
+
+[Info   : Unity Log] 11/22/2022 04:38:52: clone 2830
+
+[Info   : Unity Log] 11/22/2022 04:42:34: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 11/22/2022 04:42:34: New connection
+
+[Info   : Unity Log] 11/22/2022 04:42:34: Accepting connection k_EResultOK
+
+[Info   : Unity Log] 11/22/2022 04:42:34: Connecting to Steamworks.SteamNetworkingIdentity
+
+[Info   : Unity Log] 11/22/2022 04:42:34: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 11/22/2022 04:42:34: Connected
+
+[Info   : Unity Log] 11/22/2022 04:42:34: Got connection SteamID 76561199113609924
+
+[Info   : Unity Log] Sending PlantEverything version 1.11.7 and minimum version 1.11.7 to the client.
+[Info   : Unity Log] Sending Epic Loot version 0.8.9 and minimum version 0.8.9 to the client.
+[Info   : Unity Log] [Better Trader] Received mod info from 76561199113609924! Their GUID is Menthus.bepinex.plugins.BetterTrader and their Version is 922C8D8ADD8F2F792C15D546C48E18B0!
+[Info   : Unity Log] 11/22/2022 04:42:34: Got handshake from client 76561199113609924
+
+[Info   : Unity Log] [Better Trader] Version check succeeded! Player[922C8D8ADD8F2F792C15D546C48E18B0] Remote [922C8D8ADD8F2F792C15D546C48E18B0]
+[Info   : Unity Log] [Better Trader] Sending config to [76561199113609924] which has a size of 106901!
+[Info   : Unity Log] 11/22/2022 04:42:40: VERSION check their:0.211.11@0.9.9.9  mine:0.211.11@0.9.9.9
+
+[Info   : Unity Log] 11/22/2022 04:42:40: Server: New peer connected,sending global keys
+
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Hud.BuffIcon +1: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Hud.BuffIcon +2: 1.39
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Hud.DebuffIcon -1: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Hud.DebuffIcon -2: 0.79
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Performance.Ground Sensor Interval: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Performance.Ground Sensor Radius: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.DirtPathSpeed: 1.15
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StonePathSpeed: 1.4
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.CultivatedSpeed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StructureWoodSpeed: 1.15
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StructureHardWoodSpeed: 1.15
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StructureStoneSpeed: 1.4
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StructureIronSpeed: 1.4
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.DirtPathStamina: 0.8
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StonePathStamina: 0.7
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.CultivatedStamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StructureWoodStamina: 0.8
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StructureHardWoodStamina: 0.8
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StructureStoneStamina: 0.7
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StructureIronStamina: 0.7
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_None_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_None_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_None: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Meadows_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Meadows_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Meadows: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Swamp_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Swamp_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Swamp: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Mountain_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Mountain_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Mountain: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_BlackForest_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_BlackForest_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_BlackForest: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Plains_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Plains_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Plains: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_AshLands_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_AshLands_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_AshLands: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_DeepNorth_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_DeepNorth_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_DeepNorth: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Ocean_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Ocean_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Ocean: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Mistlands_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Mistlands_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Mistlands: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.PathDirt: Dirt Path
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.PathStone: Stone Path
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Cultivated: Cultivated
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.StructureWood: Wood
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.StructureHardWood: Hardwood
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.StructureStone: Stone
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.StructureIron: Iron
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sent 57 config pairs to client 1354272598
+[Info   : Unity Log] 11/22/2022 04:42:45: VPlus configuration synced to peer #1354272598
+
+[Info   : Unity Log] 11/22/2022 04:43:06: Got character ZDOID from Alfred : 1354272598:4
+
+[Info   : Unity Log] 11/22/2022 04:43:37:  Connections 1 ZDOS:1157867  sent:0 recv:446
+
+[Info   : Unity Log] 11/22/2022 04:45:30: Got character ZDOID from Alfred : 0:0
+
+[Info   : Unity Log] 11/22/2022 04:45:41: Got character ZDOID from Alfred : 1354272598:259
+
+[Info   : Unity Log] 11/22/2022 04:51:55: Got character ZDOID from Alfred : 0:0
+
+[Info   : Unity Log] 11/22/2022 04:52:00: Got character ZDOID from Alfred : 1354272598:743
+
+[Info   : Unity Log] 11/22/2022 04:53:39:  Connections 1 ZDOS:1157863  sent:0 recv:423
+
+[Info   : Unity Log] 11/22/2022 05:03:40:  Connections 1 ZDOS:1157856  sent:0 recv:247
+
+[Info   : Unity Log] 11/22/2022 05:09:00: clone 2700
+
+[Info   : Unity Log] 11/22/2022 05:12:10: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 11/22/2022 05:12:10: New connection
+
+[Info   : Unity Log] 11/22/2022 05:12:10: Accepting connection k_EResultOK
+
+[Info   : Unity Log] 11/22/2022 05:12:10: Connecting to Steamworks.SteamNetworkingIdentity
+
+[Info   : Unity Log] 11/22/2022 05:12:10: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 11/22/2022 05:12:10: Connected
+
+[Info   : Unity Log] 11/22/2022 05:12:10: Got connection SteamID 76561199145089208
+
+[Info   : Unity Log] Sending PlantEverything version 1.11.7 and minimum version 1.11.7 to the client.
+[Info   : Unity Log] Sending Epic Loot version 0.8.9 and minimum version 0.8.9 to the client.
+[Info   : Unity Log] 11/22/2022 05:12:10: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+
+[Info   : Unity Log] 11/22/2022 05:12:10: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+
+[Info   : Unity Log] 11/22/2022 05:12:10:   Closing socket 76561199145089208
+
+[Info   : Unity Log] 11/22/2022 05:12:10: Closing socket 76561199145089208
+
+[Info   : Unity Log] 11/22/2022 05:12:10:   send queue size:0
+
+[Info   : Unity Log] 11/22/2022 05:12:10: Got status changed msg k_ESteamNetworkingConnectionState_None
+
+[Info   : Unity Log] 11/22/2022 05:12:10: Disposing socket
+
+[Info   : Unity Log] 11/22/2022 05:12:10: Disposing socket
+
+[Info   : Unity Log] 11/22/2022 05:13:45:  Connections 1 ZDOS:1157854  sent:177 recv:119
+
+[Info   : Unity Log] 11/22/2022 05:16:52: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 11/22/2022 05:16:52: New connection
+
+[Info   : Unity Log] 11/22/2022 05:16:52: Accepting connection k_EResultOK
+
+[Info   : Unity Log] 11/22/2022 05:16:52: Connecting to Steamworks.SteamNetworkingIdentity
+
+[Info   : Unity Log] 11/22/2022 05:16:52: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 11/22/2022 05:16:52: Connected
+
+[Info   : Unity Log] 11/22/2022 05:16:52: Got connection SteamID 76561199145089208
+
+[Info   : Unity Log] Sending PlantEverything version 1.11.7 and minimum version 1.11.7 to the client.
+[Info   : Unity Log] Sending Epic Loot version 0.8.9 and minimum version 0.8.9 to the client.
+[Info   : Unity Log] 11/22/2022 05:16:52: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+
+[Info   : Unity Log] 11/22/2022 05:16:52: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+
+[Info   : Unity Log] 11/22/2022 05:16:52:   Closing socket 76561199145089208
+
+[Info   : Unity Log] 11/22/2022 05:16:52: Closing socket 76561199145089208
+
+[Info   : Unity Log] 11/22/2022 05:16:52:   send queue size:0
+
+[Info   : Unity Log] 11/22/2022 05:16:52: Got status changed msg k_ESteamNetworkingConnectionState_None
+
+[Info   : Unity Log] 11/22/2022 05:16:52: Disposing socket
+
+[Info   : Unity Log] 11/22/2022 05:16:52: Disposing socket
+
+[Info   : Unity Log] 11/22/2022 05:20:24: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 11/22/2022 05:20:24: New connection
+
+[Info   : Unity Log] 11/22/2022 05:20:24: Accepting connection k_EResultOK
+
+[Info   : Unity Log] 11/22/2022 05:20:24: Connecting to Steamworks.SteamNetworkingIdentity
+
+[Info   : Unity Log] 11/22/2022 05:20:24: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 11/22/2022 05:20:24: Connected
+
+[Info   : Unity Log] 11/22/2022 05:20:24: Got connection SteamID 76561198082674045
+
+[Info   : Unity Log] Sending PlantEverything version 1.11.7 and minimum version 1.11.7 to the client.
+[Info   : Unity Log] Sending Epic Loot version 0.8.9 and minimum version 0.8.9 to the client.
+[Info   : Unity Log] [Better Trader] Received mod info from 76561198082674045! Their GUID is Menthus.bepinex.plugins.BetterTrader and their Version is 922C8D8ADD8F2F792C15D546C48E18B0!
+[Info   : Unity Log] 11/22/2022 05:20:24: Got handshake from client 76561198082674045
+
+[Info   : Unity Log] [Better Trader] Version check succeeded! Player[922C8D8ADD8F2F792C15D546C48E18B0] Remote [922C8D8ADD8F2F792C15D546C48E18B0]
+[Info   : Unity Log] [Better Trader] Sending config to [76561198082674045] which has a size of 106901!
+[Info   : Unity Log] 11/22/2022 05:20:36: VERSION check their:0.211.11@0.9.9.9  mine:0.211.11@0.9.9.9
+
+[Info   : Unity Log] 11/22/2022 05:20:36: Server: New peer connected,sending global keys
+
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Hud.BuffIcon +1: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Hud.BuffIcon +2: 1.39
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Hud.DebuffIcon -1: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Hud.DebuffIcon -2: 0.79
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Performance.Ground Sensor Interval: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Performance.Ground Sensor Radius: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.DirtPathSpeed: 1.15
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StonePathSpeed: 1.4
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.CultivatedSpeed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StructureWoodSpeed: 1.15
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StructureHardWoodSpeed: 1.15
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StructureStoneSpeed: 1.4
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StructureIronSpeed: 1.4
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.DirtPathStamina: 0.8
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StonePathStamina: 0.7
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.CultivatedStamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StructureWoodStamina: 0.8
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StructureHardWoodStamina: 0.8
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StructureStoneStamina: 0.7
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StructureIronStamina: 0.7
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_None_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_None_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_None: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Meadows_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Meadows_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Meadows: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Swamp_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Swamp_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Swamp: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Mountain_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Mountain_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Mountain: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_BlackForest_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_BlackForest_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_BlackForest: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Plains_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Plains_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Plains: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_AshLands_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_AshLands_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_AshLands: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_DeepNorth_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_DeepNorth_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_DeepNorth: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Ocean_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Ocean_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Ocean: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Mistlands_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Mistlands_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Mistlands: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.PathDirt: Dirt Path
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.PathStone: Stone Path
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Cultivated: Cultivated
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.StructureWood: Wood
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.StructureHardWood: Hardwood
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.StructureStone: Stone
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.StructureIron: Iron
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sent 57 config pairs to client 573800130
+[Info   : Unity Log] 11/22/2022 05:20:42: VPlus configuration synced to peer #573800130
+
+[Info   : Unity Log] 11/22/2022 05:21:02: Got character ZDOID from Torv : 573800130:1
+
+[Info   : Unity Log] 11/22/2022 05:23:47:  Connections 2 ZDOS:1157751  sent:476 recv:632
+
+[Info   : Unity Log] 11/22/2022 05:31:33: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 11/22/2022 05:31:33: New connection
+
+[Info   : Unity Log] 11/22/2022 05:31:33: Accepting connection k_EResultOK
+
+[Info   : Unity Log] 11/22/2022 05:31:33: Connecting to Steamworks.SteamNetworkingIdentity
+
+[Info   : Unity Log] 11/22/2022 05:31:33: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 11/22/2022 05:31:33: Connected
+
+[Info   : Unity Log] 11/22/2022 05:31:33: Got connection SteamID 76561199145089208
+
+[Info   : Unity Log] Sending PlantEverything version 1.11.7 and minimum version 1.11.7 to the client.
+[Info   : Unity Log] Sending Epic Loot version 0.8.9 and minimum version 0.8.9 to the client.
+[Info   : Unity Log] 11/22/2022 05:31:33: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+
+[Info   : Unity Log] 11/22/2022 05:31:33: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+
+[Info   : Unity Log] 11/22/2022 05:31:33:   Closing socket 76561199145089208
+
+[Info   : Unity Log] 11/22/2022 05:31:33: Closing socket 76561199145089208
+
+[Info   : Unity Log] 11/22/2022 05:31:33:   send queue size:0
+
+[Info   : Unity Log] 11/22/2022 05:31:33: Got status changed msg k_ESteamNetworkingConnectionState_None
+
+[Info   : Unity Log] 11/22/2022 05:31:33: Disposing socket
+
+[Info   : Unity Log] 11/22/2022 05:31:33: Disposing socket
+
+[Info   : Unity Log] 11/22/2022 05:33:49:  Connections 2 ZDOS:1157918  sent:19 recv:426
+
+[Info   : Unity Log] 11/22/2022 05:39:09: clone 2608
+
+[Info   : Unity Log] 11/22/2022 05:43:53:  Connections 2 ZDOS:1158481  sent:0 recv:666
+
+[Info   : Unity Log] 11/22/2022 05:46:36: RPC_Disconnect 
+
+[Info   : Unity Log] 11/22/2022 05:46:36: Destroying abandoned non persistent zdo 573800130:1 owner 573800130
+
+[Info   : Unity Log] 11/22/2022 05:46:36: Destroying abandoned non persistent zdo 573800130:6678 owner 573800130
+
+[Info   : Unity Log] 11/22/2022 05:46:36: Destroying abandoned non persistent zdo 573800130:7304 owner 573800130
+
+[Info   : Unity Log] 11/22/2022 05:46:36: Destroying abandoned non persistent zdo 573800130:7373 owner 573800130
+
+[Info   : Unity Log] 11/22/2022 05:46:36: Destroying abandoned non persistent zdo 573800130:7807 owner 573800130
+
+[Info   : Unity Log] 11/22/2022 05:46:36: Disposing socket
+
+[Info   : Unity Log] 11/22/2022 05:46:36: Closing socket 76561198082674045
+
+[Info   : Unity Log] 11/22/2022 05:46:36:   send queue size:0
+
+[Info   : Unity Log] 11/22/2022 05:46:36: Disposing socket
+
+[Info   : Unity Log] 11/22/2022 05:46:36: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+
+[Info   : Unity Log] 11/22/2022 05:46:36: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+
+[Info   : Unity Log] 11/22/2022 05:46:36: Got status changed msg k_ESteamNetworkingConnectionState_None
+
+[Info   : Unity Log] 11/22/2022 05:51:56: Possible events:6
+
+[Info   : Unity Log] 11/22/2022 05:51:56: Random event set:surtlings
+
+[Info   : Unity Log] 11/22/2022 05:52:16: RPC_Disconnect 
+
+[Info   : Unity Log] 11/22/2022 05:52:16: Destroying abandoned non persistent zdo 1354272598:7323 owner 1354272598
+
+[Info   : Unity Log] 11/22/2022 05:52:16: Destroying abandoned non persistent zdo 1354272598:7338 owner 1354272598
+
+[Info   : Unity Log] 11/22/2022 05:52:16: Destroying abandoned non persistent zdo 1354272598:7329 owner 1354272598
+
+[Info   : Unity Log] 11/22/2022 05:52:16: Destroying abandoned non persistent zdo 1354272598:7337 owner 1354272598
+
+[Info   : Unity Log] 11/22/2022 05:52:16: Destroying abandoned non persistent zdo 1354272598:7331 owner 1354272598
+
+[Info   : Unity Log] 11/22/2022 05:52:16: Destroying abandoned non persistent zdo 1354272598:743 owner 1354272598
+
+[Info   : Unity Log] 11/22/2022 05:52:16: Destroying abandoned non persistent zdo 1354272598:7325 owner 1354272598
+
+[Info   : Unity Log] 11/22/2022 05:52:16: Destroying abandoned non persistent zdo 1354272598:7339 owner 1354272598
+
+[Info   : Unity Log] 11/22/2022 05:52:16: Destroying abandoned non persistent zdo 1354272598:7336 owner 1354272598
+
+[Info   : Unity Log] 11/22/2022 05:52:16: Destroying abandoned non persistent zdo 1354272598:7332 owner 1354272598
+
+[Info   : Unity Log] 11/22/2022 05:52:16: Destroying abandoned non persistent zdo 1354272598:7341 owner 1354272598
+
+[Info   : Unity Log] 11/22/2022 05:52:16: Destroying abandoned non persistent zdo 1354272598:7324 owner 1354272598
+
+[Info   : Unity Log] 11/22/2022 05:52:16: Destroying abandoned non persistent zdo 1354272598:7328 owner 1354272598
+
+[Info   : Unity Log] 11/22/2022 05:52:16: Destroying abandoned non persistent zdo 1354272598:7342 owner 1354272598
+
+[Info   : Unity Log] 11/22/2022 05:52:16: Destroying abandoned non persistent zdo 1354272598:7322 owner 1354272598
+
+[Info   : Unity Log] 11/22/2022 05:52:16: Destroying abandoned non persistent zdo 1354272598:7340 owner 1354272598
+
+[Info   : Unity Log] 11/22/2022 05:52:16: Destroying abandoned non persistent zdo 1354272598:7320 owner 1354272598
+
+[Info   : Unity Log] 11/22/2022 05:52:16: Destroying abandoned non persistent zdo 1354272598:7333 owner 1354272598
+
+[Info   : Unity Log] 11/22/2022 05:52:16: Destroying abandoned non persistent zdo 1354272598:7319 owner 1354272598
+
+[Info   : Unity Log] 11/22/2022 05:52:16: Destroying abandoned non persistent zdo 1354272598:7327 owner 1354272598
+
+[Info   : Unity Log] 11/22/2022 05:52:16: Destroying abandoned non persistent zdo 1354272598:7326 owner 1354272598
+
+[Info   : Unity Log] 11/22/2022 05:52:16: Destroying abandoned non persistent zdo 1354272598:7335 owner 1354272598
+
+[Info   : Unity Log] 11/22/2022 05:52:16: Disposing socket
+
+[Info   : Unity Log] 11/22/2022 05:52:16: Closing socket 76561199113609924
+
+[Info   : Unity Log] 11/22/2022 05:52:16:   send queue size:0
+
+[Info   : Unity Log] 11/22/2022 05:52:16: Disposing socket
+
+[Info   : Unity Log] 11/22/2022 05:52:16: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+
+[Info   : Unity Log] 11/22/2022 05:52:16: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+
+[Info   : Unity Log] 11/22/2022 05:52:16: Got status changed msg k_ESteamNetworkingConnectionState_None
+
+[Info   : Unity Log] 11/22/2022 05:53:54:  Connections 0 ZDOS:1158494  sent:0 recv:0
+
+[Info   : Unity Log] 11/22/2022 06:03:56:  Connections 0 ZDOS:1158494  sent:0 recv:0
+
+[Info   : Unity Log] 11/22/2022 06:09:17: clone 2830
+
+[Info   : Unity Log] 11/22/2022 06:14:00:  Connections 0 ZDOS:1158494  sent:0 recv:0
+
+[Info   : Unity Log] 11/22/2022 06:14:03: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 11/22/2022 06:14:03: New connection
+
+[Info   : Unity Log] 11/22/2022 06:14:03: Accepting connection k_EResultOK
+
+[Info   : Unity Log] 11/22/2022 06:14:03: Connecting to Steamworks.SteamNetworkingIdentity
+
+[Info   : Unity Log] 11/22/2022 06:14:03: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 11/22/2022 06:14:03: Connected
+
+[Info   : Unity Log] 11/22/2022 06:14:03: Got connection SteamID 76561198014724303
+
+[Info   : Unity Log] Sending PlantEverything version 1.11.7 and minimum version 1.11.7 to the client.
+[Info   : Unity Log] Sending Epic Loot version 0.8.9 and minimum version 0.8.9 to the client.
+[Info   : Unity Log] [Better Trader] Received mod info from 76561198014724303! Their GUID is Menthus.bepinex.plugins.BetterTrader and their Version is 922C8D8ADD8F2F792C15D546C48E18B0!
+[Info   : Unity Log] 11/22/2022 06:14:03: Got handshake from client 76561198014724303
+
+[Info   : Unity Log] [Better Trader] Version check succeeded! Player[922C8D8ADD8F2F792C15D546C48E18B0] Remote [922C8D8ADD8F2F792C15D546C48E18B0]
+[Info   : Unity Log] [Better Trader] Sending config to [76561198014724303] which has a size of 106901!
+[Info   : Unity Log] 11/22/2022 06:14:13: VERSION check their:0.211.11@0.9.9.9  mine:0.211.11@0.9.9.9
+
+[Info   : Unity Log] 11/22/2022 06:14:13: Server: New peer connected,sending global keys
+
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Hud.BuffIcon +1: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Hud.BuffIcon +2: 1.39
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Hud.DebuffIcon -1: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Hud.DebuffIcon -2: 0.79
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Performance.Ground Sensor Interval: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Performance.Ground Sensor Radius: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.DirtPathSpeed: 1.15
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StonePathSpeed: 1.4
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.CultivatedSpeed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StructureWoodSpeed: 1.15
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StructureHardWoodSpeed: 1.15
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StructureStoneSpeed: 1.4
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StructureIronSpeed: 1.4
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.DirtPathStamina: 0.8
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StonePathStamina: 0.7
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.CultivatedStamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StructureWoodStamina: 0.8
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StructureHardWoodStamina: 0.8
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StructureStoneStamina: 0.7
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StructureIronStamina: 0.7
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_None_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_None_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_None: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Meadows_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Meadows_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Meadows: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Swamp_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Swamp_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Swamp: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Mountain_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Mountain_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Mountain: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_BlackForest_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_BlackForest_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_BlackForest: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Plains_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Plains_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Plains: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_AshLands_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_AshLands_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_AshLands: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_DeepNorth_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_DeepNorth_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_DeepNorth: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Ocean_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Ocean_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Ocean: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Mistlands_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Mistlands_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Mistlands: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.PathDirt: Dirt Path
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.PathStone: Stone Path
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Cultivated: Cultivated
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.StructureWood: Wood
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.StructureHardWood: Hardwood
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.StructureStone: Stone
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.StructureIron: Iron
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sent 57 config pairs to client 2560274700
+[Info   : Unity Log] 11/22/2022 06:14:18: VPlus configuration synced to peer #2560274700
+
+[Info   : Unity Log] 11/22/2022 06:14:37: Got character ZDOID from Kröll : 2560274700:1
+
+[Info   : Unity Log] 11/22/2022 06:15:09: RPC_Disconnect 
+
+[Info   : Unity Log] 11/22/2022 06:15:10: Destroying abandoned non persistent zdo 2560274700:1 owner 2560274700
+
+[Info   : Unity Log] 11/22/2022 06:15:10: Disposing socket
+
+[Info   : Unity Log] 11/22/2022 06:15:10: Closing socket 76561198014724303
+
+[Info   : Unity Log] 11/22/2022 06:15:10:   send queue size:0
+
+[Info   : Unity Log] 11/22/2022 06:15:10: Disposing socket
+
+[Info   : Unity Log] 11/22/2022 06:15:10: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+
+[Info   : Unity Log] 11/22/2022 06:15:10: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+
+[Info   : Unity Log] 11/22/2022 06:15:10: Got status changed msg k_ESteamNetworkingConnectionState_None
+
+[Info   : Unity Log] 11/22/2022 06:17:03: Game - OnApplicationQuit
+
+[Info   : Unity Log] 11/22/2022 06:17:03: Shuting down
+
+[Info   : Unity Log] 11/22/2022 06:17:03: ZNet Shutdown
+
+[Info   : Unity Log] 11/22/2022 06:17:06: clone 2862
+
+[Info   : Unity Log] 11/22/2022 06:17:18: Sending disconnect msg
+
+[Info   : Unity Log] 11/22/2022 06:17:18: Disposing socket
+
+[Info   : Unity Log] 11/22/2022 06:17:18: Stopping listening socket
+
+[Info   : Unity Log] 11/22/2022 06:17:18: Last socket, unregistering callback
+
+[Info   : Unity Log] 11/22/2022 06:17:18: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+
+[Info   : Unity Log] [Better Trader] Trader's coins were saved with a value of 2000
+[Info   : Unity Log] 11/22/2022 06:18:06: ZNet OnDestroy
+
+[Info   : Unity Log] 11/22/2022 06:18:06: Net scene destroyed
+
+[Info   : Unity Log] 11/22/2022 06:18:08: Steam manager on destroy
+
